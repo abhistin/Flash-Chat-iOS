@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
@@ -54,6 +54,4 @@ struct K {
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
-=======
-# Flash-Chat-iOS
->>>>>>> 085e840cbd6da19d6e00f12fb61f094bd1dc9f0c
+
